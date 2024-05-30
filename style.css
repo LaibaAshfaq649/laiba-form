@@ -1,0 +1,193 @@
+@media screen and ( max-width:768px){
+
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.nav {
+    height: 70px;
+    width: 100%;
+    background-color: rgb(235, 123, 177);
+    text-align: right;
+    padding-top: 30px;
+    list-style-type: none;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+.nav a {
+    margin: 0 20px;
+    text-decoration: none;
+    color: black;
+    transition: .5s;
+
+}
+
+.nav a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+
+
+.bj {
+    background-image: url('./working_image/web\ background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+
+
+}
+
+.h1 {
+
+    text-align: center;
+    text-decoration-line: none;
+    padding: 50px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.h2 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 0px;
+
+}
+
+.ib {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 60px;
+    margin-right: 30px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+
+}
+
+.im {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 70px;
+    margin-right: 30px;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+}
+
+.ip {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 70px;
+    margin-right: 30px;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+
+}
+
+.ik {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 70px;
+    margin-right: 30px;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+
+}
+
+#Home {
+    color: white;
+    padding: 30px 0;
+    background-color: rgb(17, 73, 214);
+
+
+}
+
+
+
+#Home p {
+    text-align: center;
+    margin: 20px 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+#Home h1 {
+
+    text-align: center;
+    margin: 20px 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+#About {
+    color: white;
+    background-color: rgb(59, 116, 221);
+    padding: 30px 0;
+}
+
+#About h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+
+#About p {
+
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+#Services {
+
+    color: white;
+    padding: 30px 0;
+    background-color: rgb(233, 119, 174);
+
+}
+
+#Services h1 {
+
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+
+#Services p {
+
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#Contactus {
+    color: white;
+    padding: 30px 0;
+    background-color: black;
+    text-align: center;
+}
